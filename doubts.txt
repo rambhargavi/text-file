@@ -5,7 +5,7 @@ how do we do risk analysis?how to identify high risk areas where the probability
 differnce between client-server application and web application?
 what are client components? server components?how to test network between them?
 what is test strategy?--it is a high level test plan document prepared by test manager
-
+hello sample document
 how do we test security tests like malicious attack from an outsider,or a virus?
 
 semi-random testcases?
