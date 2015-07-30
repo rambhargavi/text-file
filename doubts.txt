@@ -11,6 +11,8 @@ how do we test security tests like malicious attack from an outsider,or a virus?
 semi-random testcases?
 76. How would you estimate the amount of re-testing likely to be required?
 
+edited in github server
+
 
 
 
